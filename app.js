@@ -14,5 +14,5 @@ const name = "daviti",
   dayOfWeek = "saturday",
   favoriteActivity = "sleeping";
 
-const sentence = `hi my name is${name}! today is ${dayOfWeek}, perfect day for${favoriteActivity}`;
+const sentence = `hi my name is ${name}! today is ${dayOfWeek}, perfect day for ${favoriteActivity}`;
 console.log(sentence);
